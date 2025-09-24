@@ -1,6 +1,7 @@
 Este projeto foi criado para o Challenge ONE da Alura com foco em colocar em prática minhas habilidades em desenvolvimento web. 
 É uma aplicação interativa de Amigo Secreto onde os usuários podem adicionar, sortear e visualizar a lista de participantes de forma simples e intuitiva.
 
+
 ✨ Funcionalidades Principais
 
 ➕ Adicionar Participantes: Insira os nomes dos amigos que participarão do sorteio
@@ -12,6 +13,7 @@ Este projeto foi criado para o Challenge ONE da Alura com foco em colocar em pr�
 🗑️ Gerenciar Lista: Remova participantes individualmente ou limpe toda a lista
 
 📱 Design Responsivo: Experiência otimizada para desktop e mobile
+
 
 
 🛠️ Tecnologias Utilizadas
@@ -50,6 +52,7 @@ Implementação de algoritmos de sorteio aleatório
 Design responsivo e experiência do usuário
 
 Boas práticas de organização e semântica de código
+
 
 🌟 Destaques Técnicos
 
